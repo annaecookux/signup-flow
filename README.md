@@ -1,2 +1,2 @@
 # signup-flow
-Modern multi-step signup flow with carousel, social auth, and optimized UX
+Testing GitHub Copilot to create a signup flow using purely vibes. Be warned!
